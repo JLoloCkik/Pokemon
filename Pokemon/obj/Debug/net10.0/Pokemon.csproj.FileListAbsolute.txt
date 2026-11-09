@@ -1,0 +1,14 @@
+/home/jlolo/Developer/c#-12/Pokemon/Pokemon/obj/Debug/net10.0/Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+/home/jlolo/Developer/c#-12/Pokemon/Pokemon/obj/Debug/net10.0/Pokemon.AssemblyInfoInputs.cache
+/home/jlolo/Developer/c#-12/Pokemon/Pokemon/obj/Debug/net10.0/Pokemon.AssemblyInfo.cs
+/home/jlolo/Developer/c#-12/Pokemon/Pokemon/obj/Debug/net10.0/Pokemon.csproj.CoreCompileInputs.cache
+/home/jlolo/Developer/c#-12/Pokemon/Pokemon/bin/Debug/net10.0/Pokemon
+/home/jlolo/Developer/c#-12/Pokemon/Pokemon/bin/Debug/net10.0/Pokemon.deps.json
+/home/jlolo/Developer/c#-12/Pokemon/Pokemon/bin/Debug/net10.0/Pokemon.runtimeconfig.json
+/home/jlolo/Developer/c#-12/Pokemon/Pokemon/bin/Debug/net10.0/Pokemon.dll
+/home/jlolo/Developer/c#-12/Pokemon/Pokemon/bin/Debug/net10.0/Pokemon.pdb
+/home/jlolo/Developer/c#-12/Pokemon/Pokemon/obj/Debug/net10.0/Pokemon.dll
+/home/jlolo/Developer/c#-12/Pokemon/Pokemon/obj/Debug/net10.0/refint/Pokemon.dll
+/home/jlolo/Developer/c#-12/Pokemon/Pokemon/obj/Debug/net10.0/Pokemon.pdb
+/home/jlolo/Developer/c#-12/Pokemon/Pokemon/obj/Debug/net10.0/Pokemon.genruntimeconfig.cache
+/home/jlolo/Developer/c#-12/Pokemon/Pokemon/obj/Debug/net10.0/ref/Pokemon.dll
